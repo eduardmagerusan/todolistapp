@@ -3,7 +3,7 @@
 
 This application is based on the classic Todo List App and was developed using ReactJS version 18.2.0 and Firebase version 9.9.1. With this app, the user is allowed to enter different tasks, delete tasks and set them to done or undone. 
 
-This WebApp ist hosted on Firebase: https://todolistapp-819bf.firebaseapp.com
+This WebApp is currently hosted on Firebase: https://todolistapp-819bf.firebaseapp.com
 
 ## Available Scripts
 
